@@ -2,8 +2,8 @@
 
 > My 180-day journey to become an AI Engineer. One day, one commit, one step at a time.
 
-![Progress](https://img.shields.io/badge/Progress-0%2F180-blue)
-![Streak](https://img.shields.io/badge/Streak-0%20days-orange)
+![Progress](https://img.shields.io/badge/Progress-1%2F180-blue)
+![Streak](https://img.shields.io/badge/Streak-1%20days-orange)
 ![Projects](https://img.shields.io/badge/Projects-0%2F8-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -15,11 +15,11 @@
 |---|---|
 | **Start Date** | October 1, 2026 |
 | **Target Date** | March 29, 2027 |
-| **Days Completed** | 0 / 180 |
-| **Current Streak** | 0 days |
-| **Longest Streak** | 0 days |
+| **Days Completed** | 1 / 180 |
+| **Current Streak** | 1 days |
+| **Longest Streak** | 1 days |
 | **Projects Completed** | 0 / 8 |
-| **Total Commits** | 0 |
+| **Total Commits** | 1 |
 
 ---
 
@@ -40,7 +40,7 @@ Learn → Practice → Build → Document → Commit
 ### PHASE 1 — Python for AI (Days 1–20)
 | Day | Topic | Status | Date | Link |
 |---:|---|:---:|---|---|
-| 001 | Python Environment & Git | ⬜ | — | [→](days/day-001-python-environment/) |
+| 001 | Python Environment & Git | ✅ | 01-10-2026 | [→](days/day-001-python-environment/) |
 | 002 | Variables & Data Types | ⬜ | — | [→](days/day-002-variables-data-types/) |
 | 003 | Strings | ⬜ | — | [→](days/day-003-strings/) |
 | 004 | Lists | ⬜ | — | [→](days/day-004-lists/) |
